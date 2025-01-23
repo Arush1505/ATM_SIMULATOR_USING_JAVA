@@ -38,9 +38,3 @@ create table signup(formno varchar(20),name varchar(20),father varchar(20),addre
 
 jdbc connectivity is most asked  question in viva so prepare for that ..
 you can add functionality for personal information
-
-
-#   don't be depressed today by seeing such large codes , cause in future they' ll make you depress  ヾ(≧▽≦*) 
-
-hahahaha !!!!  JUST KIDDING 
-GOOD LUCK : (^人^))
